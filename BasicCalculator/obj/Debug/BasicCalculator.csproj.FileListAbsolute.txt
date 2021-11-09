@@ -1,0 +1,9 @@
+F:\Visual Studio 2019\Projects\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+F:\Visual Studio 2019\Projects\BasicCalculator\bin\Debug\BasicCalculator.exe
+F:\Visual Studio 2019\Projects\BasicCalculator\bin\Debug\BasicCalculator.pdb
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.csprojAssemblyReference.cache
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.exe
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.pdb
+F:\Visual Studio 2019\Projects\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
